@@ -1,1 +1,1 @@
-# Thrift---chain-
+# Thrift - chain
